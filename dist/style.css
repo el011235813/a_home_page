@@ -27,6 +27,7 @@ a:hover {
   width: 270px;
   hight: 270px;
   margin-left: 140px;
+  border-radius: 100px;
 }
 .c-site-header {
   font-size: 140%;
