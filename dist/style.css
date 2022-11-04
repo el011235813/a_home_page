@@ -25,9 +25,8 @@ a:hover {
 }
 .key_features img{
   width: 270px;
-  hight: 270px;
   margin-left: 140px;
-  border-radius: 100px;
+  border-radius: 100%;
 }
 .c-site-header {
   font-size: 140%;
@@ -36,7 +35,7 @@ a:hover {
 }
 .key_features p {
   text-align: center;
-   line-height: 1.9;
+  line-height: 1.9;
   font-family: montserrat;
   font-size: 1rem;
 }
